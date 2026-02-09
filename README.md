@@ -1,7 +1,7 @@
 # 📄 Projecte Futbol Femení (Part 3)
 
 ## 👤 Autor
-**Adrián Becerra Pérez** - Desenvolupament d'Aplicacions Web (DAW)
+**Daniel Alfonso Seguí Pons** - Desenvolupament d'Aplicacions Web (DAW)
 
 ---
 
