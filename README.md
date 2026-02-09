@@ -25,8 +25,8 @@ Per avaluar correctament les funcionalitats i les restriccions de seguretat (Pol
 | Rol | Email | Contrasenya | Permisos i Funcionalitats Clau |
 | :--- | :--- | :--- | :--- |
 | **Administrador** | `admin@futbolfemeni.com` | `password` | **Control Total**. Pot crear, editar i esborrar qualsevol entitat (Equips, Jugadores, Estadis, Partits). |
-| **Mànager** | `manager_valencia-cf@futbolfemeni.com` | `password` | **Gestió de Club**. Només pot editar el *seu* equip i les *seues* jugadores. Rep correus de la jornada. |
-| **Àrbitre** | `arbitre1@futbolfemeni.com` | `password` | **Gestió de Resultats**. Només pot editar el resultat ("Gols-Gols") dels partits on està assignat. |
+| **Mànager** | `manager@gmail.com` | `12345678` | **Gestió de Club**. Només pot editar el *seu* equip i les *seues* jugadores. Rep correus de la jornada. |
+| **Àrbitre** | `arbitre1@gmail.com` | `87654321` | **Gestió de Resultats**. Només pot editar el resultat ("Gols-Gols") dels partits on està assignat. |
 
 > **Nota:** Si regeneres la base de dades, utilitza aquestes credencials. Per provar el rol de Mànager, assegura't d'utilitzar un usuari assignat a un equip específic (com l'exemple del València CF) i no el genèric.
 ---
